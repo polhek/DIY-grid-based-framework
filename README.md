@@ -29,9 +29,9 @@ different sized screens.
 
 -Such as:\
 
-- lg = min-width 1200px \
-- md = min-width 992px \
-- sm = max-width 768px \
+- lg = min-width 1200px
+- md = min-width 992px
+- sm = max-width 768px
 
 ## References
 
